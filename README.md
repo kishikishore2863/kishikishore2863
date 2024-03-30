@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **React Node**
+- 💬 Ask me about **React Node js**
 
 - 📫 How to reach me **Kishikishore.2863@gmail.com**
 
